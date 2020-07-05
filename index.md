@@ -1,14 +1,14 @@
 ---
 title: About
 feature_text: |
-  ## ON HIDDEN BOOKSHELF
+  ## ON MY BOOKSHELF
   A JOURNAL OF THE BOOKS
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 layout: page
 ---
 
-このサイトは、今後の将来を考える上で必要となるであろう本を紹介するサイトです。技術、経済、歴史、哲学といった様々なジャンルから、重要な視点、新しい事実を与えてくれる本を紹介します。
+On this web site, we introduce books which give us insights into the future world, interesting knowledge.
 
 ## Features
 
